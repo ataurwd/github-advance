@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    margin: 30px 100px;
+}
+.main{
+    padding: 20px;
+    background-color: aqua;
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    
+}
